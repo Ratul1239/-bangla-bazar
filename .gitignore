@@ -1,0 +1,17 @@
+# Secrets - NEVER push these to GitHub!
+.env
+.env.local
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Misc
+*.log
+.DS_Store
+shots/
